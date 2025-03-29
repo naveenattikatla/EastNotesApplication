@@ -1,0 +1,22 @@
+{
+  "name": "backend-task",
+  "version": "1.0.0",
+  "description": "this is backend task",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/app.js"
+  },
+  "keywords": [
+    "Node js",
+    "express js",
+    "Mongodb",
+    "backend"
+  ],
+  "author": "Naveen",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.13.1",
+    "nodemon": "^3.1.9"
+  }
+}
